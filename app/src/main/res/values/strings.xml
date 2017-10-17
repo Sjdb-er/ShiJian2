@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShiJian2</string>
+    <string name="title_activity_main2">AnotherActivity</string>
+    <string name="botton1">ButtonTest</string>
+    <string name="botton2">ButtonReturn</string>
+    <string name="editText2">Words</string>
+</resources>
